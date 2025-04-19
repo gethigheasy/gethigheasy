@@ -6,7 +6,7 @@
 
 ## 🎌 Sobre Mim (自己紹介 - Jikoshoukai)
 
-Olá, me chamo Victor, um desenvolvedor pela minha namorada e TypeScript. 
+Olá, me chamo Victor, um desenvolvedor que ama minha namorada e TypeScript. 
 
 ## 🛠️ Tecnologias e Ferramentas (技術とツール)
 
